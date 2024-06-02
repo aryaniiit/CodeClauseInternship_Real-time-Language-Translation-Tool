@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+textarea {
+    width: 300px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+#langSelect, #translateBtn {
+    margin-bottom: 20px;
+}
+
+#translationResult {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
